@@ -1,0 +1,33 @@
+.heading{
+    font-size: 30px;
+    margin: 0px;
+    width: 95%;
+    box-shadow: 5px 3px 30px violet;
+}
+
+
+.span1{
+    font-size: 13px;
+    color: indigo;
+}
+
+.footer{
+    position: fixed;
+    background-color: grey;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
+}
+
+canvas{
+    border: 5px dotted indigo;
+    border-radius: 3px;
+    box-shadow: 5px 3px 30px violet;
+}
+
+#width{
+    color: whitesmoke;
+}
